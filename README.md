@@ -12,3 +12,17 @@ Are there differences in ordering habits based on a customer’s region?
 Is there a connection between age and family status regarding ordering habits?
 What classifications can be derived from demographic information, such as age, income, types of goods, and family status?
 How do ordering habits differ among various customer profiles?
+Key Questions: 
+- What was the average rental duration for all videos?
+- Which movies contributed the most and least to revenue gain?
+- Do sales figures vary between geographical regions?
+- In which countries are Rockbuster’s customers based?
+-  Where are customers with a high lifetime value located?
+-   What movie genres generate the most revenue?
+Systems Used:
+- pgAdmin4 (Managing SQL Databases)
+- PostgreSQL (RDMS, used to store data)
+- Tableau Public: Creating Visualizations
+Data Overview
+- The dataset contains detailed information about Rockbuster's movie inventory, customer demographics, and payment records.
+Link to Tableau Visualization: https://public.tableau.com/app/profile/divya.neopaney/viz/RockbusterData3_10/HighestRevenue

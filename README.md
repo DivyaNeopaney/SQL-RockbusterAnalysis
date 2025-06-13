@@ -1,6 +1,6 @@
 # Instacart Basket Analysis
  Project Summary: 
-This project analyzes Instacart’s sales data to find customer buying patterns. It answers key questions on order timing, spending, and product popularity, and explores customer segments by age, income, region, and loyalty to help create targeted, data-driven marketing strategies
+This project analyzes Instacart’s sales data to find customer buying patterns. It answers key questions on order timing, spending, and product popularity, and explores customer segments by age, income, region, and loyalty to help create targeted, data-driven marketing strategie
 Key Questions
 What are the busiest days of the week and hours of the day?
 At what times do customers spend the most money?
